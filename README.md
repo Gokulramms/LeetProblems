@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gokulramms/LeetProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Gokulramms/LeetProblems/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Gokulramms/LeetProblems/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
