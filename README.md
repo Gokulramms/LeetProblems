@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokulramms/LeetProblems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Gokulramms/LeetProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gokulramms/LeetProblems/tree/master/0005-longest-palindromic-substring) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Gokulramms/LeetProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Trie
 |  |
 | ------- |
