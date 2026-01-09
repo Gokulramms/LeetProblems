@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gokulramms/LeetProblems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0409-longest-palindrome) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -141,14 +142,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Queue
 |  |
 | ------- |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
