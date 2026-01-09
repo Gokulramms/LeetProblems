@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Gokulramms/LeetProblems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Gokulramms/LeetProblems/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/Gokulramms/LeetProblems/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
