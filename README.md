@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Gokulramms/LeetProblems/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/Gokulramms/LeetProblems/tree/master/0520-detect-capital) |
 ## Sliding Window
 |  |
 | ------- |
