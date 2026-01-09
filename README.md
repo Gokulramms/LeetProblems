@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Gokulramms/LeetProblems/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Gokulramms/LeetProblems/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0564-find-the-closest-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Gokulramms/LeetProblems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Gokulramms/LeetProblems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Gokulramms/LeetProblems/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0564-find-the-closest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
