@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gokulramms/LeetProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gokulramms/LeetProblems/tree/master/0013-roman-to-integer) |
 | [0390-elimination-game](https://github.com/Gokulramms/LeetProblems/tree/master/0390-elimination-game) |
+| [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gokulramms/LeetProblems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gokulramms/LeetProblems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0409-longest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
