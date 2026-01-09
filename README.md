@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gokulramms/LeetProblems/tree/master/0013-roman-to-integer) |
 | [0390-elimination-game](https://github.com/Gokulramms/LeetProblems/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
+| [0556-next-greater-element-iii](https://github.com/Gokulramms/LeetProblems/tree/master/0556-next-greater-element-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Gokulramms/LeetProblems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Gokulramms/LeetProblems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Gokulramms/LeetProblems/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/Gokulramms/LeetProblems/tree/master/0556-next-greater-element-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Gokulramms/LeetProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Gokulramms/LeetProblems/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Gokulramms/LeetProblems/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
