@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gokulramms/LeetProblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Gokulramms/LeetProblems/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Gokulramms/LeetProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Gokulramms/LeetProblems/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Gokulramms/LeetProblems/tree/master/0383-ransom-note) |
 ## Tree
 |  |
 | ------- |
