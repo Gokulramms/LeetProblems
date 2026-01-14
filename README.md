@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
+| [0722-remove-comments](https://github.com/Gokulramms/LeetProblems/tree/master/0722-remove-comments) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Gokulramms/LeetProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Gokulramms/LeetProblems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Gokulramms/LeetProblems/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
+| [0722-remove-comments](https://github.com/Gokulramms/LeetProblems/tree/master/0722-remove-comments) |
 ## Sliding Window
 |  |
 | ------- |
