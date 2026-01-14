@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokulramms/LeetProblems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
+| [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Gokulramms/LeetProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gokulramms/LeetProblems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0409-longest-palindrome) |
+| [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Linked List
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Gokulramms/LeetProblems/tree/master/0564-find-the-closest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Gokulramms/LeetProblems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Gokulramms/LeetProblems/tree/master/0709-to-lower-case) |
+| [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokulramms/LeetProblems/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Gokulramms/LeetProblems/tree/master/0389-find-the-difference) |
+| [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 ## Counting
 |  |
 | ------- |
