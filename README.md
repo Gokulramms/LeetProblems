@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokulramms/LeetProblems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Gokulramms/LeetProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Gokulramms/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/Gokulramms/LeetProblems/tree/master/0722-remove-comments) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gokulramms/LeetProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Gokulramms/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gokulramms/LeetProblems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Gokulramms/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Gokulramms/LeetProblems/tree/master/0392-is-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Gokulramms/LeetProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Trie
