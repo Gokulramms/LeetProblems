@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gokulramms/LeetProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Gokulramms/LeetProblems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Gokulramms/LeetProblems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/Gokulramms/LeetProblems/tree/master/0722-remove-comments) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gokulramms/LeetProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Gokulramms/LeetProblems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Gokulramms/LeetProblems/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
