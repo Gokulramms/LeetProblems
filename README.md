@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gokulramms/LeetProblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gokulramms/LeetProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gokulramms/LeetProblems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Gokulramms/LeetProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Gokulramms/LeetProblems/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/Gokulramms/LeetProblems/tree/master/0720-longest-word-in-dictionary) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gokulramms/LeetProblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Gokulramms/LeetProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gokulramms/LeetProblems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Gokulramms/LeetProblems/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/Gokulramms/LeetProblems/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Gokulramms/LeetProblems/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Gokulramms/LeetProblems/tree/master/0556-next-greater-element-iii) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Gokulramms/LeetProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gokulramms/LeetProblems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
