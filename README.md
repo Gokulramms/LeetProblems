@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gokulramms/LeetProblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gokulramms/LeetProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Gokulramms/LeetProblems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Gokulramms/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Gokulramms/LeetProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Gokulramms/LeetProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Gokulramms/LeetProblems/tree/master/0053-maximum-subarray) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gokulramms/LeetProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gokulramms/LeetProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Gokulramms/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Gokulramms/LeetProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulramms/LeetProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Gokulramms/LeetProblems/tree/master/0392-is-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Gokulramms/LeetProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Gokulramms/LeetProblems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Gokulramms/LeetProblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gokulramms/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gokulramms/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Gokulramms/LeetProblems/tree/master/0392-is-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Gokulramms/LeetProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokulramms/LeetProblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gokulramms/LeetProblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gokulramms/LeetProblems/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gokulramms/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gokulramms/LeetProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
