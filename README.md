@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Gokulramms/LeetProblems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Gokulramms/LeetProblems/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/Gokulramms/LeetProblems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Gokulramms/LeetProblems/tree/master/0257-binary-tree-paths) |
